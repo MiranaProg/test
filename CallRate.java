@@ -3,7 +3,7 @@ package first.com;
 	
  class Plan2 
  {
-	 long callrate1,callrate2;
+	 long callrate1,callrate2;//for comm
 	 
 	 int callsec1,callsec2;
 	 
