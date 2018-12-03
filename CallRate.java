@@ -1,5 +1,5 @@
 package first.com;
-//prog to analyze better call rates..
+//prog to analyze better call rates....
 	
  class Plan2 
  {
